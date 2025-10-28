@@ -1,0 +1,12 @@
+{
+  "name": "BRAINITA",
+  "symbol": "BRT",
+  "description": "Brainita is a community-driven meme token that brings creativity and innovation to the Web3 world.",
+  "image": "https://github.com/brainita/brainita-token-assets/blob/main/assets/mainnet/7HrtSpPb4RcemxzjRo4gvbTgHtf5vyz7qX1XdvaEJbRf/logo.png",
+  "extensions": {
+    "website": "https://github.com/brainita/brainita-token-assets",
+    "twitter": "https://twitter.com/BRAINITA",
+    "telegram": "https://t.me/BRAINITAcommunity",
+    "github": "https://github.com/brainita/brainita-token-assets"
+  }
+}
