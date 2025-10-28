@@ -1,0 +1,19 @@
+{
+  "chainId": 101,
+  "address": "7HrtSpPb4RcemxzjRo4gvbTgHtf5vyz7qX1XdvaEJbRf",
+  "symbol": "BRT",
+  "name": "BRAINITA",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/brainita/brainita-token-assets/main/assets/mainnet/7HrtSpPb4RcemxzjRo4gvbTgHtf5vyz7qX1XdvaEJbRf/logo.png",
+  "tags": [
+    "community",
+    "meme",
+    "ai"
+  ],
+  "extensions": {
+    "website": "https://github.com/brainita/brainita-token-assets",
+    "twitter": "https://twitter.com/BRAINITA",
+    "telegram": "https://t.me/BRAINITA",
+    "description": "BRAINITA (BRT) is a meme-driven AI community token empowering creativity, innovation, and collaboration in the Web3 era. The project represents the fusion of humor, intelligence, and decentralized spirit."
+  }
+}
